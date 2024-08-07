@@ -2,7 +2,7 @@
 
 A mobile app designed to help users add and track information about stray pets in their area. Built using Thunkable, the app aims to facilitate the process of helping stray animals find assistance.
 
-##Mobile App Design v1.0
+## Mobile App Design v1.0
 <img src="https://github.com/cephascard0207/LendAPaw_app/blob/main/LendaPAW_oldPrototypeDesign.png"/>
 
 
