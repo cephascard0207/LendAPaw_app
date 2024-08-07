@@ -28,13 +28,31 @@ A mobile app designed to help users add and track information about stray pets i
 1. **Home View:** View all added stray pets and add new entries.
 2. **Add Paw Screen:** Fill in the details about the stray pet and submit to save the information.
 
-## How to Contribute
+### How to Contribute
 
-1. Fork the repository.
-2. Create a new branch (`git checkout -b feature-branch`).
-3. Make your changes and commit them (`git commit -m 'Add new feature'`).
-4. Push to the branch (`git push origin feature-branch`).
-5. Create a new Pull Request.
+1. **Fork the repository.**
+2. **Clone your fork:**
+   ```bash
+   git clone https://github.com/your-username/LendAPaw_app.git
+   ```
+3. **Create a new branch from `main`:**
+   ```bash
+   cd LendAPaw_app
+   git checkout -b feature-branch
+   ```
+4. **Make your changes and commit them:**
+   ```bash
+   git add .
+   git commit -m 'Add new feature'
+   ```
+5. **Push to the branch:**
+   ```bash
+   git push origin feature-branch
+   ```
+6. **Create a new Pull Request:**
+   - Go to the repository on GitHub.
+   - Click on the "Compare & pull request" button.
+   - Submit the pull request.
 
 ## License
 
