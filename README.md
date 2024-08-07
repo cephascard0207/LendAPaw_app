@@ -56,7 +56,7 @@ A mobile app designed to help users add and track information about stray pets i
 
 ## License
 
-This project is licensed under a custom license. License File will soon been released! - see the [LICENSE](LICENSE) file for details.
+This project is licensed under a custom lend a paw app license - see the [LICENSE](LICENSE) file for details.
 
 ## Acknowledgments
 
