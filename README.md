@@ -1,4 +1,4 @@
-# Lend a Paw
+# Lend a Paw🐶🐱
 
 A mobile app designed to help users add and track information about stray pets in their area. Built using Thunkable, the app aims to facilitate the process of helping stray animals find assistance.
 
