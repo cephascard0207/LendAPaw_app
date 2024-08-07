@@ -61,8 +61,4 @@ This project is licensed under a custom license. License File will soon been rel
 ## Acknowledgments
 
 - Thanks to Thunkable for providing a platform to build the app.
-- Special thanks to all contributors and users of "Lend a Paw".
-
----
-
-Feel free to update any sections or add more information as necessary!
+- Special thanks to all contributors and test users of "Lend a Paw" app.
