@@ -1,6 +1,6 @@
 # Lend a Paw🐶🐱
 
-A mobile app designed to help users add and track information about stray pets in their area. Currently using Thunkable to build a Prototype, the app aims to facilitate the process of helping stray animals find assistance. But will soon be Developed using Python Kivy for application development.
+A mobile app designed to help users add and track information about stray pets in their area. Currently using Thunkable to build a Prototype, the app aims to facilitate the process of helping stray animals find assistance. But will soon be Developed using Python Kivy Kit for Multi-Platform Application development.
 
 ## Mobile App Design v1.0
 <img src="https://github.com/cephascard0207/LendAPaw_app/blob/main/LendaPAW_oldPrototypeDesign.png"/>
