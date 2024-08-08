@@ -58,7 +58,7 @@ A mobile app designed to help users add and track information about stray pets i
 
 This project is licensed under a custom lend a paw app license - see the [LICENSE](LICENSE) file for details.
 
-## Acknowledgments
+## Acknowledgments & Contributor Credits
 
+- Project Contributors > Cephas Cardozo & Andy Fernandes
 - Thanks to Thunkable for providing a platform to build the app.
-- Special thanks to all contributors and test users of "Lend a Paw" app.
